@@ -1,5 +1,7 @@
 ```bash
-FTP_PASSWORD=XjzzoNbjIr82vI duplicity /home ftp://b111794@b111794.parspack.org/Ehsan/backup
+
+FTP_PASSWORD=XjzzoNbjIr82vI duplicity /etc ftp://b111794@b111794.parspack.org/Ehsan/etc
+
 ```
 
 show all folder size in the current directory
