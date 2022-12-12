@@ -10,4 +10,4 @@ Bash is a command-line interpreter or Unix Shell and it is widely used in GNU/Li
 
 ### commands
 
-this file have useful linux command which I used, [Linux Commands](useful-linux-commands.md)
+this file have useful linux command which I used, [Linux Commands](https://github.com/ehsanghaffar/linux-learning/blob/main/useful-linux-commands.md)
